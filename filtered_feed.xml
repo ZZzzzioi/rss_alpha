@@ -1,8 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>DeepSeek Alpha Feed</title>
-    <link>https://zzzzzioi.github.io/rss_alpha/filtered_feed.xml</link>
-    <description>近 30 天高价值区块链资讯</description>
-    <lastBuildDate>2025-08-03T20:00:00+08:00</lastBuildDate>
-  </channel>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>DeepSeek Alpha Feed</title><link>https://zzzzzioi.github.io/rss_alpha/filtered_feed.xml</link><description>近 30 天高价值区块链资讯</description><lastBuildDate>Mon, 04 Aug 2025 11:04:26 -0000</lastBuildDate><item><title>ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策</title><link>https://substack.chainfeeds.xyz/p/eigenda-v2-galaxy-researchdatcos</link><description>类别：行业趋势 / 热点叙事
+建议：订阅 ChainFeeds Newsletter 以获取深度投研简报和热点新闻榜单
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>ChainFeeds</source></item><item><title>财新：香港或把首批稳定币牌照范围缩小为三到四家</title><link>https://www.panewslab.com/zh/articles/64c3faef-435d-40f9-9565-150a05adf840</link><description>类别：行业趋势 / 热点叙事
+建议：关注香港稳定币牌照发放进展，评估潜在的市场影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>香港稳定币进入合规时代：牌照角逐和场景探路</title><link>https://www.panewslab.com/zh/articles/68df21cd-913f-46fc-a7e4-16eb0fa83d6a</link><description>类别：行业趋势 / 热点叙事
+建议：研究香港稳定币合规化对市场的影响，关注牌照申请动态
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>以太坊财库公司Bitmine董事长：若按基本面估算ETH价格应为1.5万美元</title><link>https://www.panewslab.com/zh/articles/fa9c04a4-e299-4f6e-b136-ce4456161981</link><description>类别：投资参考
+建议：分析 Tom Lee 的观点，评估 ETH 的基本面价值
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>PA日报 | 非农数据爆冷或引全球市场动荡；比特币现货ETF单日净流出8.12亿美元，为历史第二高</title><link>https://www.panewslab.com/zh/articles/3efeb8e8-8c86-47d6-8e30-6e9db03d177d</link><description>类别：风险预警
+建议：关注非农数据对全球市场的影响，谨慎调整投资策略
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>特朗普次子Eric Trump：再说一次，逢低买入BTC和ETH</title><link>https://www.panewslab.com/zh/articles/9135e653-47f5-4167-b45c-fcb183cd450c</link><description>类别：投资参考
+建议：评估市场情绪，考虑逢低买入 BTC 和 ETH 的策略
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>鲸鱼0xF436过去8小时再度增持10,245枚ETH，价值约3600万美元</title><link>https://www.panewslab.com/zh/articles/2861489f-201d-43f4-b3fa-71bc3a252cdc</link><description>类别：投资参考
+建议：跟踪鲸鱼地址的交易行为，分析其对 ETH 价格的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>Arthur Hayes：比特币将测试10万美元，以太坊将测试3000美元</title><link>https://www.panewslab.com/zh/articles/a981af3a-ba34-44e1-b382-a6d099c7f37b</link><description>类别：投资参考
+建议：关注 Arthur Hayes 的市场预测，评估比特币和以太坊的价格走势
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>ARK Invest昨日增持约3576万美元COIN和1873万美元的BMNR股票</title><link>https://www.panewslab.com/zh/articles/ada4bb22-6f52-4da3-88f1-230cfdaea782</link><description>类别：投资参考
+建议：关注ARK Invest的投资动向，评估COIN和BMNR的投资潜力
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>美SEC主席发起“加密项目”倡议后，美国人也将能领空投了</title><link>https://www.panewslab.com/zh/articles/32dd3247-59d9-45f2-b87f-052add2271a1</link><description>类别：行业趋势 / 热点叙事
+建议：关注美国SEC的加密政策变化，评估其对空投市场的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>Baby BTC Strategic Capital与纳斯达克上市公司ATA Creativity Global签署条款清单，控股上市公司收购Baby代币深耕BTCFi</title><link>https://www.panewslab.com/zh/articles/11b06652-a3a3-499d-b784-5d0d60b015dc</link><description>类别：投资参考
+建议：研究Baby BTC Strategic Capital的投资策略，评估ATA Creativity Global的转型潜力
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>ATA Creativity Global 获 Baby BTC Strategic Capital 1 亿美元控股，转型 BTCFi上市平台</title><link>https://www.panewslab.com/zh/articles/6685a943-b6fb-4c0a-9e2f-e5a4f5795511</link><description>类别：投资参考
+建议：深入研究Babylon基金会的投资动向，评估BTCFi领域的发展前景
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>持续20日净流入遭终结，以太坊现货ETF昨日净流出1.52亿美元</title><link>https://www.panewslab.com/zh/articles/7f9daf2a-f443-49e9-9859-9c4c75bfc4e9</link><description>类别：风险预警
+建议：关注以太坊现货ETF的资金流动情况，评估市场情绪变化
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>比特币现货ETF昨日净流出8.12亿美元，为历史第二高</title><link>https://www.panewslab.com/zh/articles/f3f2001f-047c-4cac-83f7-c45bed4668e2</link><description>类别：风险预警
+建议：关注比特币现货ETF的资金流动情况，评估市场情绪变化
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>疑属于Anchorage Digital的地址正通过Galaxy Digital OTC买入14933枚ETH</title><link>https://www.panewslab.com/zh/articles/39524f56-5cdf-4d76-957d-ce75f9168a9d</link><description>类别：投资参考
+建议：跟踪Anchorage Digital和Galaxy Digital的大额交易，评估ETH的市场动向
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>年化15%+ 回撤不足2%，Neutral如何用机构风控“稳”吃JLP红利？</title><link>https://www.panewslab.com/zh/articles/dxc37t3a</link><description>类别：投资参考
+建议：研究Neutral的风险对冲策略，评估JLP的投资价值
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>巨鲸“The White Whale”：昨晚暴跌并未导致被清算，但已放弃部分SOL多头仓位</title><link>https://www.panewslab.com/zh/articles/0ff048f3-962f-4ef2-ac56-f1118b1caa23</link><description>类别：风险预警
+建议：关注巨鲸The White Whale的交易行为，评估市场波动风险
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>Arthur Hayes过去6小时内合计售出约1335万美元的ETH、ENA和PEPE</title><link>https://www.panewslab.com/zh/articles/7f2c59d0-c8ba-48dd-890b-b19821ec7f3b</link><description>类别：风险预警
+建议：跟踪Arthur Hayes的交易行为，评估ETH、ENA和PEPE的市场风险
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>一周精选丨以太坊创世十周年；香港稳定币新政落地；加密市场回调，山寨币暴跌</title><link>https://www.panewslab.com/zh/articles/w2nn3ypp</link><description>类别：行业趋势 / 热点叙事
+建议：关注以太坊生态发展及香港稳定币政策后续影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>Uniswap、a16z及其盟友敦促参议院为DeFi设立专门监管框架，并提出四个关键目标</title><link>https://www.panewslab.com/zh/articles/25c21d95-f8d3-47f5-9da7-91bb481602fa</link><description>类别：行业趋势 / 热点叙事
+建议：跟踪 DeFi 监管框架进展，评估对相关项目的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>Block如何利用标普500资格，推动华尔街万亿资本涌入BTC？</title><link>https://www.panewslab.com/zh/articles/9xft4fi1</link><description>类别：投资参考
+建议：关注 Block 入选标普 500 对比特币市场流动性的长期影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>SharpLink Gaming过去7小时入金1.08亿USDC，目前已买进14,933枚ETH</title><link>https://www.panewslab.com/zh/articles/02e9b41d-d920-47ee-ae5c-c52026064b3a</link><description>类别：投资参考
+建议：监测 SharpLink Gaming 的 ETH 持仓动向及市场反应
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>一新地址过去三天累计囤积79461.38枚ETH，目前浮亏2205.6万美元</title><link>https://www.panewslab.com/zh/articles/e0a7ff6f-54a8-4206-812a-7eca958926b6</link><description>类别：风险预警
+建议：分析大额 ETH 持仓浮亏可能引发的连锁市场风险
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>美股三大指数集体收跌，加密货币板块跌幅居前</title><link>https://www.panewslab.com/zh/articles/a2b8c66d-fcee-4d14-9d3a-624ae13cca97</link><description>类别：风险预警
+建议：警惕加密货币板块与美股联动下跌风险，调整短期交易策略
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>纳斯达克上市公司DevvStream Corp.购入1000万美元比特币和Solana</title><link>https://www.panewslab.com/zh/articles/c021b05e-bca0-4d33-ba5e-7ac33db5678d</link><description>类别：投资参考
+建议：研究上市公司加密资产配置趋势，关注 Solana 生态机会
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_推荐</source></item><item><title>香港金管局：警惕虚假稳定币持牌诈骗，持有未受监管稳定币须自行承担风险</title><link>https://www.panewslab.com/zh/articles/847bb05d-bf49-4ec6-8f0b-a802c206fc4c</link><description>类别：风险预警
+建议：核查稳定币合规资质，避免参与未受监管项目
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>“内幕巨鲸”已开设1111枚BTC、22222枚ETH、333万枚XRP、44444万枚SOL空单</title><link>https://www.panewslab.com/zh/articles/5ef66caf-6599-4155-a4d6-3c75cf8018df</link><description>类别：风险预警
+建议：关注市场波动，谨慎评估持仓风险
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>Bitmax增持56.0445枚BTC，总持仓量突破500枚</title><link>https://www.panewslab.com/zh/articles/5fb30711-82b8-4d2f-b591-191abbb21dbc</link><description>类别：投资参考
+建议：关注Bitmax的比特币增持动态，评估市场信心
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>“内幕巨鲸”开设20倍杠杆XRP和SOL空单，总价值1707万美元</title><link>https://www.panewslab.com/zh/articles/2a50da8d-f2ef-4a5a-b1ed-134f6251b44b</link><description>类别：风险预警
+建议：警惕高杠杆空单对市场的影响，避免盲目跟风
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>英国FCA：对零售客户参与加密资产衍生品交易的禁令将继续有效</title><link>https://www.panewslab.com/zh/articles/0d2b1162-c948-4a3a-8964-1b05c1e2d866</link><description>类别：行业趋势 / 热点叙事
+建议：关注英国FCA政策变化，评估其对衍生品市场的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>Fundamental Global成立信托基金FG CVR Trust并更名为FG Nexus</title><link>https://www.panewslab.com/zh/articles/07230b7d-1b47-459b-b408-99a59b6e803e</link><description>类别：行业趋势 / 热点叙事
+建议：关注FG Nexus的RWA战略，探索代币化资产机会
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>灰度宣布BTCC和BPI派息周期从每月一次调整为每两周一次</title><link>https://www.panewslab.com/zh/articles/c450ac79-2344-4e5a-b053-23a21bd6fa23</link><description>类别：交互机会
+建议：评估灰度ETF派息周期调整对投资策略的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>币安Alpha上线OLAXBT (AIO)</title><link>https://www.panewslab.com/zh/articles/6ee570df-a0bc-43ae-9199-24a5ca67facd</link><description>类别：交互机会
+建议：研究OLAXBT (AIO)的项目背景和潜力，考虑是否参与交易或投资
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>Securitize：贝莱德BUIDL基金迄今已支付超过6250万美元股息</title><link>https://www.panewslab.com/zh/articles/c1d12b96-a889-4f7c-9f46-f39acfe0a2e7</link><description>类别：行业趋势 / 热点叙事
+建议：了解贝莱德BUIDL基金的代币化资产进展，关注其在多链上的应用
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>矿企Bitdeer本周增持38枚BTC，总持仓达1675.9枚BTC</title><link>https://www.panewslab.com/zh/articles/30aa399f-df26-43d0-9f94-885a216c98c3</link><description>类别：投资参考
+建议：关注Bitdeer的比特币持仓和挖矿情况，分析其对市场的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>数据：过去7天超4.1万枚BTC流出CEX平台</title><link>https://www.panewslab.com/zh/articles/3bc46ccc-efda-49fb-b086-5b3d92471035</link><description>类别：投资参考
+建议：分析比特币流出CEX平台的原因，评估市场情绪和潜在机会
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>某地址因458天前签署的网络钓鱼批准损失逾90万美元</title><link>https://www.panewslab.com/zh/articles/25cf883b-a841-42d9-ae9a-beb77ea982b4</link><description>类别：风险预警
+建议：检查并撤销旧批准，避免类似网络钓鱼攻击的风险
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>数据：过去7天USDC流通量约减少11亿枚</title><link>https://www.panewslab.com/zh/articles/a67286ff-5850-4760-a114-2ff77fc4da3b</link><description>类别：行业趋势 / 热点叙事
+建议：分析USDC流通量减少的原因，关注稳定币市场的动态
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>数据：Pumpfun日收入创2024年5月以来新低</title><link>https://www.panewslab.com/zh/articles/dcfc41eb-ffe5-4db8-88a3-2271043af03d</link><description>类别：行业趋势 / 热点叙事
+建议：关注Pumpfun的收入变化，分析其市场表现和潜在原因
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>美联储威廉姆斯谈劳动力市场降温，谨慎对待9月降息预期</title><link>https://www.panewslab.com/zh/articles/7d6367a4-ea05-47b9-a5fb-acf3c49d75cf</link><description>类别：行业趋势 / 热点叙事
+建议：关注美联储的货币政策动向，评估对加密货币市场的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>Gate Group拿下美国23个州牌照，正式上线Gate US交易平台</title><link>https://www.panewslab.com/zh/articles/463de30d-5759-4b7e-bf48-bf1e9e3d32ab</link><description>类别：行业趋势 / 热点叙事
+建议：关注Gate Group的全球合规进展，评估其市场扩张策略
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>Coinbase将于8月15日暂停Function X (FX) 交易</title><link>https://www.panewslab.com/zh/articles/15da5fa9-b0f9-4c79-92aa-110b44c62063</link><description>类别：风险预警
+建议：检查是否持有Function X (FX)，考虑在暂停交易前调整仓位
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>Plugman推出全新NFT系列并通过Element平台发售，总计5000枚</title><link>https://www.panewslab.com/zh/articles/2426l15e</link><description>类别：交互机会
+建议：关注Plugman NFT系列的发售情况，评估ZetaChain上的原生IP潜力
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>黄立成凌晨加仓ETH、HYPE和PUMP后割肉，剩余仓位浮亏扩大至1850万美元</title><link>https://www.panewslab.com/zh/articles/4ef1cbe6-fc1c-455a-b4a4-4df8cd3f51e8</link><description>类别：投资参考
+建议：分析黄立成的交易行为，评估ETH、HYPE和PUMP的市场风险
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>“内幕巨鲸”的BTC和ETH双开空单浮盈已超过585.9万美元</title><link>https://www.panewslab.com/zh/articles/6bf3b68f-3767-429a-9687-764be791e301</link><description>类别：投资参考
+建议：关注“内幕巨鲸”的空单动向，分析BTC和ETH的市场趋势
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>美国SEC加密特别工作组将于秋季起在十个城市举行系列圆桌会议</title><link>https://www.panewslab.com/zh/articles/60dd88ec-9252-4c73-90e1-3899676c004a</link><description>类别：行业趋势 / 热点叙事
+建议：关注SEC加密特别工作组的圆桌会议，评估其对数字资产规则的潜在影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>美国证券交易委员会成立AI特别工作组</title><link>https://www.panewslab.com/zh/articles/461b4817-195f-40fb-9b2f-23cc928d34d1</link><description>类别：行业趋势 / 热点叙事
+建议：跟踪SEC AI特别工作组的动态，分析AI与区块链结合的监管趋势
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>“四战ETH 75%胜率鲸鱼”在3小时前加仓2万枚ETH，其做空ETH目前浮盈750万美元</title><link>https://www.panewslab.com/zh/articles/b274676c-3490-48d9-952b-5fc0dac364c8</link><description>类别：投资参考
+建议：关注ETH价格波动及该鲸鱼的仓位变化，评估市场情绪和潜在影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>CurveDAO成员提议大幅削减未来的Layer2部署</title><link>https://www.panewslab.com/zh/articles/13ef4687-596f-47db-9e1f-89cdd6abbdf0</link><description>类别：行业趋势 / 热点叙事
+建议：关注CurveDAO的Layer2战略调整，分析其对多链生态的影响
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item><item><title>瑞穗证券：Coinbase二季度收益表明Circle的USDC利润率或继续下降</title><link>https://www.panewslab.com/zh/articles/d56b342a-7468-4ce7-bef5-4047a4f25af9</link><description>类别：行业趋势 / 热点叙事
+建议：分析USDC利润率下降对稳定币竞争格局的影响，关注Circle的应对策略
+row['summary']</description><pubDate>Sat, 02 Aug 2025 00:00:00 -0000</pubDate><source>PANews_快讯</source></item></channel></rss>
